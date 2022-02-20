@@ -1,4 +1,4 @@
-# This is a Notes Taking built entirely with flutter widgets.
+# This is a Notes Taking  App built entirely with flutter widgets.
 
 A new Flutter project.
 
