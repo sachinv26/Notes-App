@@ -1,4 +1,4 @@
-# hello
+# This is a Notes Taking built entirely with flutter widgets.
 
 A new Flutter project.
 
